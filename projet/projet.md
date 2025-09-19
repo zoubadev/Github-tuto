@@ -14,6 +14,13 @@
 ## StepBack 
     git reflog 
     git reset --hard HEAD~1
+## mettre la nouvelle commit avec l'anncienne
+    git commit --amend --no-edit
+## t7eb t7el branch te3ek fi pc sa7bk 
+    git fetch 
+    git branch -r
+    git checkout esm l branch 
+         
 
 
     
