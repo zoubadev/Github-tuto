@@ -9,5 +9,6 @@ public class ConcatExample {
 
         // Affichage du résultat
         System.out.println("Résultat de la concaténation : " + resultat);
+    
     }
 }
